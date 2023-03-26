@@ -1,0 +1,9 @@
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape img{
+    max-width: 100%;
+    height: 250px;
+}
